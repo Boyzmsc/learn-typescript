@@ -1,0 +1,24 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build" : "tsc",
+    "build:watch" : "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boyzmsc/learn-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boyzmsc/learn-typescript/issues"
+  },
+  "homepage": "https://github.com/Boyzmsc/learn-typescript#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
