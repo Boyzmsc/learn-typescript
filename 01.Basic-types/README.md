@@ -1,20 +1,18 @@
-# Basic Types
+## Basic Types
 
 ### Primitive Type
-* boolean
-* number
-* string
-* symbol (ES2015)
-* null
-* undefined
-* array (object)
+* Boolean
+* Number
+* String
+* Symbol (ES2015)
+* Null
+* Undefined
+* Array (object)
 
-<br/>
-
-### Sub Type
-* any
-* void
-* never
-* unknown
-* enum
-* tuple (object)
+### Other Type
+* Any
+* Void
+* Never
+* Unknown
+* Enum
+* Tuple (object)
