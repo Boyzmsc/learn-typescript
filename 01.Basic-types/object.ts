@@ -13,16 +13,16 @@ ob = { name: "Mark" };
 
 ob = [{ name: "Mark" }];
 
-// ob = 39; -> Error
+// ob = 39; => Error
 
-// ob = "Mark"; -> Error
+// ob = "Mark"; => Error
 
-// ob = true; -> Error
+// ob = true; => Error
 
-// ob = 100n; -> Error
+// ob = 100n; => Error
 
-// ob = Symbol(); -> Error
+// ob = Symbol(); => Error
 
-// ob = null; -> Error
+// ob = null; => Error
 
-// ob = undefined; -> Error
+// ob = undefined; => Error

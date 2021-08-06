@@ -13,5 +13,5 @@ function infiniteLoop(): never {
 let a: string = "hello";
 
 if (typeof a !== "string") {
-  // a -> never
+  // a => never
 }

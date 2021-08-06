@@ -6,5 +6,5 @@ const obj = {
   [sym]: "value",
 };
 
-// obj["sym"] -> X
+// obj["sym"] => X
 console.log(obj[sym]);

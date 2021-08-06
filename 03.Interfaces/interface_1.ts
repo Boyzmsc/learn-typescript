@@ -6,7 +6,7 @@ interface Person {
   // Required property
   name: string;
 
-  // 'age?' -> 'age' can exist or not
+  // 'age?' => 'age' can exist or not
   age?: number;
 
   // key : value (like map)

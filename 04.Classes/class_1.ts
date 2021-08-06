@@ -1,7 +1,7 @@
 class Person {
   private pName: string;
 
-  // Property defined, but not value -> undefined
+  // Property defined, but not value => undefined
   // Not assign value from the constructor
   // Use '!' keyword
   private grade!: number;

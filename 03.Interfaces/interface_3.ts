@@ -13,4 +13,4 @@ helloPerson("Mark", 40);
 // const helloPerson: HelloPerson = function (name: string, age: number) {
 //   console.log(`${name}`);
 // };
-// Error code -> 'age: number'
+// Error code => 'age: number'

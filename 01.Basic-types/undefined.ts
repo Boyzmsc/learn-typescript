@@ -1,4 +1,4 @@
-// let myName: string = undefined -> X
+// let myName: string = undefined => X
 
 let v: void = undefined;
 let u: undefined = undefined;
